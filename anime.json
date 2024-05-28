@@ -1,0 +1,49 @@
+{
+  "anime": [
+    {
+      "category": "Action",
+      "animes": [
+        {
+          "title": "Attack on Titan",
+          "description": "A dark fantasy anime about humans living within walls to escape the threat of massive, man-eating creatures called Titans.",
+          "image": "https://example.com/attack-on-titan.jpg"
+        },
+        {
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "description": "A fantasy anime about two brothers who try to restore their bodies after a failed alchemical experiment.",
+          "image": "https://example.com/fullmetal-alchemist.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Romance",
+      "animes": [
+        {
+          "title": "Your Lie in April",
+          "description": "A drama anime about a young pianist who rediscovers his love for music with the help of a vibrant violinist.",
+          "image": "https://example.com/your-lie-in-april.jpg"
+        },
+        {
+          "title": "Kimi no Na wa (Your Name)",
+          "description": "A fantasy romance anime about two high school students who switch bodies.",
+          "image": "https://example.com/your-name.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Comedy",
+      "animes": [
+        {
+          "title": "Konosuba: God's Blessing on This Wonderful World!",
+          "description": "A comedy anime about a high school student who is reincarnated into a fantasy world and joins a party of misfits.",
+          "image": "https://example.com/konosuba.jpg"
+        },
+        {
+          "title": "Gintama",
+          "description": "A comedy anime set in an alternate Edo period where human-like aliens have taken over Japan.",
+          "image": "https://example.com/gintama.jpg"
+        }
+      ]
+    }
+  ]
+}
